@@ -1,0 +1,11 @@
+.sqlite3
+*/migrations/*
+*.pyc
+*/__pycache__/*
+*/media/*
+*/static/*
+*/statc/*
+static/
+/static
+venv
+*/venv/*
